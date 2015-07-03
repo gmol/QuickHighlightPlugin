@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=quickhighlight
+IAge=3
+Name=Quick Syntax Highlight
+Description=Quickly switch between document syntax highlight modes. Based on quickhighlightmode plugin by Fabio Zendhi Nagao.
+Authors=Artur Stulka
+Copyright=Copyright © 2015 Artur Stulka
+Website=https://github.com/gmol/
+
